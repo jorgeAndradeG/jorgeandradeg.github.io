@@ -4,7 +4,7 @@ title: "Sobre Mí"
 author: "Jorge"
 categories: journal
 tags: [documentation,sample]
-image: cutting.jpg
+image:
 ---
 
 Hola! Soy jorge, de Coyhaique(🇨🇱).
